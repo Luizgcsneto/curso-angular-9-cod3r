@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "fogao",
+      "price": "500",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "caderno",
+      "price": 3.74
+    },
+    {
+      "id": 3,
+      "name": "notebook",
+      "price": 3544.74
+    },
+    {
+      "name": "geladeira",
+      "price": "900",
+      "id": 5
+    },
+    {
+      "name": "fogao",
+      "price": "500",
+      "id": 6
+    }
+  ]
+}
